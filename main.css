@@ -1,0 +1,41 @@
+body {
+	background-color: #6441A5;
+	font-size: 1.7em;
+}
+a, a:visited{
+	text-decoration: none;
+
+}
+.container {
+	margin-top: 100px;
+
+}
+
+#title {
+	text-align: center;
+	padding:20px;
+	color:#fff;
+}
+
+#logo {
+	width: 200px;
+	height:100px;
+	text-align: center;
+	background-color: #fff;
+	padding:15px;
+	border-radius: 10px;
+}
+
+#channels {
+	background-color: #eee;
+	margin:0 auto;
+}
+
+.success {
+	background: green;
+}
+
+footer{
+	margin: 0 auto;
+	text-align: center;
+}
